@@ -6,7 +6,7 @@ exports.wait = () => {
 }
 
 exports.ok = () => {
-    return `✅ Done. Ok Donee~`
+    return `✅ Done. Ok Kaka~`
 }
 
 exports.err = () => {
@@ -87,9 +87,9 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya BetaBot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
-Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
-lapor owner agar segera di perbaiki 🙏      
+saya Betaabot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
+Bot ini dilengkapi fitur online tanpa kuota/wifi dan bisa on 24 jam & fitur² menarik lainya
+untuk menggunakan bot ini silahkan ketik .menu untuk memulai salam dari pencipta Betabot (Lann Ofc)       
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
@@ -1305,13 +1305,13 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
+├ My Family.
+├ Rijal JB
+├ My friends
+├ Fandy
+├ Erlan
+├ Riza
+├ Pandhu
 ├ Penyedia Module
 ╰❒ And All Support
 `
