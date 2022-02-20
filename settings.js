@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = true // auto read pesan / message
-global.autorecording = true //status auto merekam ( auto record )
+global.autoread = false // auto read pesan / message
+global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
@@ -23,7 +23,7 @@ global.ownername= "ᴹᴿ᭄ LannOfcོ ×፝֟͜×"
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
 global.github = "https://github/ERLANRAHMAT"
-global.ownernomer = "6285803583481"
+global.ownernomer = "6281213214038"
 global.ownernomerr = "+6285803583481"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
