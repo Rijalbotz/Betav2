@@ -5,13 +5,13 @@
 	 「 TqTo 」
 	@ My God
 	@ My Parents
-	@ Fatih A.
-	@ Ferdi
-	@ DikaArdnt [author]
-	@ Mhankbarbar
-	@ Nurutomo
-	@ Rashid
-	@ ZeeoneOfc
+	@ My Family.
+	@ Rijal JB
+        @ My Friends
+	@ Fandy
+	@ Riza
+	@ Pandhu
+	@ Erlan
 	@ Penyedia Module
 	@ And All Support
 **/
