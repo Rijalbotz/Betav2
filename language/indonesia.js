@@ -98,47 +98,47 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 *📚 List-Menu Alphabot-Md :*
 
 ╭─❒ 「 Bot Info 」 
-├ ${prefix}owner
-├ ${prefix}rules
-├ ${prefix}sc
-├ ${prefix}ping
-├ ${prefix}runtime
-├ ${prefix}botstatus
-╰❒ ${prefix}donate
+├ 👾${prefix}owner
+├ 👾${prefix}rules
+├ 👾${prefix}sc
+├ 👾${prefix}ping
+├ 👾${prefix}runtime
+├ 👾${prefix}botstatus
+╰❒ 👾${prefix}donate
 
 
 ╭─❒ 「 Owner 」 
-├ < evaluate
-├ > evaluate
-├ $ exec
-├ => exec
-├ ${prefix}setmenu [query]
-├ ${prefix}setmenu templateLocation
-├ ${prefix}setmenu templateTenor
-├ ${prefix}sendsesi
-├ ${prefix}listpc
-├ ${prefix}listgc
-├ ${prefix}broadcast [text]
-├ ${prefix}bc [text]
-├ ${prefix}bcgc [text]
-├ ${prefix}nsfw [on/off]
-├ ${prefix}autorespond [on/off]
-├ ${prefix}antiviewonce [on/off]
-├ ${prefix}join [link]
-├ ${prefix}self
-├ ${prefix}public [only bot]
-├ ${prefix}del [reply pesan bot]
-╰❒ ${prefix}setppbot [reply image]
+├ 👾< evaluate
+├ 👾> evaluate
+├ 👾$ exec
+├ 👾=> exec
+├ 👾${prefix}setmenu [query]
+├ 👾${prefix}setmenu templateLocation
+├ 👾${prefix}setmenu templateTenor
+├ 👾${prefix}sendsesi
+├ 👾${prefix}listpc
+├ 👾${prefix}listgc
+├ 👾${prefix}broadcast [text]
+├ 👾${prefix}bc [text]
+├ 👾${prefix}bcgc [text]
+├ 👾${prefix}nsfw [on/off]
+├ 👾${prefix}autorespond [on/off] .
+├ 👾${prefix}antiviewonce [on/off]
+├ 👾${prefix}join [link]
+├ 👾${prefix}self
+├ 👾${prefix}public [only bot]
+├ 👾${prefix}del [reply pesan bot]
+╰❒ 👾${prefix}setppbot [reply image]
 
 
 ╭─❒ 「 Database 」 
-├ ${prefix}setcmd [reply stiker]
-├ ${prefix}delcmd [reply stiker]
-├ ${prefix}listcmd
-├ ${prefix}absen
-├ ${prefix}cekabsen
-├ ${prefix}deleteabsen
-├ ${prefix}absenstart
+├ 👾${prefix}setcmd [reply stiker]
+├ 👾${prefix}delcmd [reply stiker]
+├ 👾${prefix}listcmd
+├ 👾${prefix}absen
+├ 👾${prefix}cekabsen
+├ 👾${prefix}deleteabsen
+├ 👾${prefix}absenstart
 ├ ${prefix}addmsg [nama file]
 ├ ${prefix}getmsg [nama file]
 ├ ${prefix}listmsg
@@ -1231,73 +1231,73 @@ exports.textpro = (prefix) =>{
 ├ ${prefix}metalb text
 ├ ${prefix}gemb text
 ├ ${prefix}3dchrome text
-├ ${prefix}metalb2 text
-├ ${prefix}metalg text
-╰❒ ${prefix}metalg text
+├ 👾${prefix}metalb2 text
+├ 👾${prefix}metalg text
+╰❒ 👾${prefix}metalg text
 `
 }
 
 
 exports.other = (prefix) =>{
 return`╭─❒ 「 Others 」
-├ ${prefix}ttp [text]
-├ ${prefix}attp [text]
-├ ${prefix}afk [reason]
-├ ${prefix}translate kode_bahasa text
-├ ${prefix}kalkulator [query]
-├ ${prefix}smeme [text]
-├ ${prefix}smeme2 [text|text]
-╰❒ ${prefix}memegen [text|text]
+├ 👾${prefix}ttp [text]
+├ 👾${prefix}attp [text]
+├ 👾${prefix}afk [reason]
+├ 👾${prefix}translate kode_bahasa text
+├ 👾${prefix}kalkulator [query]
+├ 👾${prefix}smeme [text]
+├ 👾${prefix}smeme2 [text|text]
+╰❒ 👾${prefix}memegen [text|text]
 `
 }
 exports.game = (prefix) =>{
 return`╭─❒ 「 Game Menu 」
-├ ${prefix}kuismath
-├ ${prefix}tebak [option]
-├ ${prefix}tekateki
-├ ${prefix}susunkata
-╰❒ ${prefix}caklontong
+├ 👾${prefix}kuismath
+├ 👾${prefix}tebak [option]
+├ 👾${prefix}tekateki
+├ 👾${prefix}susunkata
+╰❒ 👾${prefix}caklontong
 `
 }
 exports.asupan = (prefix) =>{
 return`╭─❒ 「 Asupan Menu 」
-├ ${prefix}chika
-├ ${prefix}delvira
-├ ${prefix}ayu
-├ ${prefix}bunga
-├ ${prefix}aura
-├ ${prefix}nisa
-├ ${prefix}ziva
-├ ${prefix}yana
-├ ${prefix}viona
-├ ${prefix}syania
-├ ${prefix}riri
-├ ${prefix}syifa
-├ ${prefix}mama_gina
-├ ${prefix}alcakenya
-├ ${prefix}mangayutri
-├ ${prefix}rikagusriani
-├ ${prefix}asupan
-├ ${prefix}bocil
-├ ${prefix}geayubi
-├ ${prefix}santuy
-├ ${prefix}ukhty
-╰❒ ${prefix}syifa
+├ 👾${prefix}chika
+├ 👾${prefix}delvira
+├ 👾${prefix}ayu
+├ 👾${prefix}bunga
+├ 👾${prefix}aura
+├ 👾${prefix}nisa
+├ 👾${prefix}ziva
+├ 👾${prefix}yana
+├ 👾${prefix}viona
+├ 👾${prefix}syania
+├ 👾${prefix}riri
+├ 👾${prefix}syifa
+├ 👾${prefix}mama_gina
+├ 👾${prefix}alcakenya
+├ 👾${prefix}mangayutri
+├ 👾${prefix}rikagusriani
+├ 👾${prefix}asupan
+├ 👾${prefix}bocil
+├ 👾${prefix}geayubi
+├ 👾${prefix}santuy
+├ 👾${prefix}ukhty
+╰❒ 👾${prefix}syifa
 `
 }
 exports.cecan = (prefix) =>{
 return`╭─❒ 「 Random Cewe 」
-├ ${prefix}china 
-├ ${prefix}indonesia 
-├ ${prefix}malaysia 
-├ ${prefix}thailand 
-├ ${prefix}korea 
-├ ${prefix}japan 
-├ ${prefix}vietnam 
-├ ${prefix}jenni 
-├ ${prefix}jiso 
-├ ${prefix}lisa  
-╰❒ ${prefix}rose
+├ 👾${prefix}china 
+├ 👾${prefix}indonesia 
+├ 👾${prefix}malaysia 
+├ 👾${prefix}thailand 
+├ 👾${prefix}korea 
+├ 👾${prefix}japan 
+├ 👾${prefix}vietnam 
+├ 👾${prefix}jenni 
+├ 👾${prefix}jiso 
+├ 👾${prefix}lisa  
+╰❒👾 ${prefix}rose
 `
 }
 
