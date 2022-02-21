@@ -433,41 +433,41 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ 👾${prefix}halloween text
 ├ 👾${prefix}sketch text
 ├ 👾${prefix}sircuit text
-├ ${prefix}discovery text
-├ ${prefix}metallic2 text
-├ ${prefix}fiction text
-├ ${prefix}demon text
-├ ${prefix}transformer text
-├ ${prefix}berry text
-├ ${prefix}thunder text
-├ ${prefix}magma text
-├ ${prefix}3dstone text
-├ ${prefix}neon text
-├ ${prefix}glitch text
-├ ${prefix}harry_potter text
-├ ${prefix}embossed text
-├ ${prefix}broken text
-├ ${prefix}papercut text
-├ ${prefix}gradient text
-├ ${prefix}glossy text
-├ ${prefix}watercolor text
-├ ${prefix}multicolor text
-├ ${prefix}neon_devil text
-├ ${prefix}underwater text
-├ ${prefix}bear text
-├ ${prefix}wonderfulg text
-├ ${prefix}christmas text
-├ ${prefix}neon_light text
-├ ${prefix}snow text
-├ ${prefix}cloudsky text
-├ ${prefix}luxury2 text
-├ ${prefix}gradient2 text
-├ ${prefix}summer text
-├ ${prefix}writing text
-├ ${prefix}engraved text
-├ ${prefix}summery text
-├ ${prefix}3dglue text
-├ ${prefix}metaldark text
+├ 👾${prefix}discovery text
+├ 👾${prefix}metallic2 text
+├ 👾${prefix}fiction text
+├ 👾${prefix}demon text
+├ 👾${prefix}transformer text
+├ 👾${prefix}berry text
+├ 👾${prefix}thunder text
+├ 👾${prefix}magma text
+├ 👾${prefix}3dstone text
+├  👾${prefix}neon text
+├  👾${prefix}glitch text
+├  👾${prefix}harry_potter text
+├  👾${prefix}embossed text
+├  👾${prefix}broken text
+├  👾${prefix}papercut text
+├  👾${prefix}gradient text
+├  👾${prefix}glossy text
+├  👾${prefix}watercolor text
+├  👾${prefix}multicolor text
+├  👾${prefix}neon_devil text
+├  👾${prefix}underwater text
+├  👾${prefix}bear text
+├  👾${prefix}wonderfulg text
+├  👾${prefix}christmas text
+├  👾${prefix}neon_light text
+├  👾${prefix}snow text
+├  👾${prefix}cloudsky text
+├  👾${prefix}luxury2 text
+├  👾${prefix}gradient2 text
+├  👾${prefix}summer text
+├  👾${prefix}writing text
+├  👾${prefix}engraved text
+├  👾${prefix}summery text
+├  👾${prefix}3dglue text
+├  👾${prefix}metaldark text
 ├ ${prefix}neonlight text
 ├ ${prefix}oscar text
 ├ ${prefix}minion text
@@ -546,79 +546,79 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}marble2 text
 ├ ${prefix}ice text
 ├ ${prefix}juice text
-├ ${prefix}rusty text
-├ ${prefix}abstra text
-├ ${prefix}biscuit text
-├ ${prefix}wood text
-├ ${prefix}scifi text
-├ ${prefix}metalr text
-├ ${prefix}purpleg text
-├ ${prefix}shiny text 
-├ ${prefix}jewelry text
-├ ${prefix}jewelry2 text
-├ ${prefix}jewelry3 text
-├ ${prefix}jewelry4 text
-├ ${prefix}jewelry5 text
-├ ${prefix}jewelry6 text
-├ ${prefix}jewelry7 text
-├ ${prefix}jewelry8 text
-├ ${prefix}metalh text
-├ ${prefix}golden text
-├ ${prefix}glitter text
-├ ${prefix}glitter2 text
-├ ${prefix}glitter3 text
-├ ${prefix}glitter4 text
-├ ${prefix}glitter5 text
-├ ${prefix}glitter6 text
-├ ${prefix}glitter7 text
-├ ${prefix}metale text
-├ ${prefix}carbon text
-├ ${prefix}candy text
-├ ${prefix}metalb text
-├ ${prefix}gemb text
-├ ${prefix}3dchrome text
-├ ${prefix}metalb2 text
-├ ${prefix}metalg text
-╰❒ ${prefix}metalg text
+├  👾${prefix}rusty text
+├  👾${prefix}abstra text
+├  👾${prefix}biscuit text
+├  👾${prefix}wood text
+├  👾${prefix}scifi text
+├  👾${prefix}metalr text
+├  👾${prefix}purpleg text
+├  👾${prefix}shiny text 
+├  👾${prefix}jewelry text
+├  👾${prefix}jewelry2 text
+├  👾${prefix}jewelry3 text
+├  👾${prefix}jewelry4 text
+├  👾${prefix}jewelry5 text
+├  👾${prefix}jewelry6 text
+├  👾${prefix}jewelry7 text
+├  👾${prefix}jewelry8 text
+├  👾${prefix}metalh text
+├  👾${prefix}golden text
+├  👾${prefix}glitter text
+├  👾${prefix}glitter2 text
+├  👾${prefix}glitter3 text
+├  👾${prefix}glitter4 text
+├  👾${prefix}glitter5 text
+├  👾${prefix}glitter6 text
+├  👾${prefix}glitter7 text
+├  👾${prefix}metale text
+├  👾${prefix}carbon text
+├  👾${prefix}candy text
+├  👾${prefix}metalb text
+├  👾${prefix}gemb text
+├  👾${prefix}3dchrome text
+├  👾${prefix}metalb2 text
+├  👾${prefix}metalg text
+╰❒  👾${prefix}metalg text
 
 
 ╭─❒ 「 Others 」
-├ ${prefix}afk [reason]
-├ ${prefix}translate kode_bahasa text
-├ ${prefix}kalkulator [query]
-├ ${prefix}smeme [text]
-├ ${prefix}smeme2 [text|text]
-├ ${prefix}memegen [text|text]
+├  👾${prefix}afk [reason]
+├  👾${prefix}translate kode_bahasa text
+├  👾${prefix}kalkulator [query]
+├  👾${prefix}smeme [text]
+├  👾${prefix}smeme2 [text|text]
+├  👾${prefix}memegen [text|text]
 ╰❒
 
 ╭─❒ 「 Game Menu 」
-├ ${prefix}kuismath
-├ ${prefix}tebak [option]
-├ ${prefix}tekateki
-├ ${prefix}susunkata
-╰❒ ${prefix}caklontong
+├  👾${prefix}kuismath
+├  👾${prefix}tebak [option]
+├  👾${prefix}tekateki
+├  👾${prefix}susunkata
+╰❒  👾${prefix}caklontong
 
 
 ╭─❒ 「 Asupan Menu 」
-├ ${prefix}chika
-├ ${prefix}delvira
-├ ${prefix}ayu
-├ ${prefix}bunga
-├ ${prefix}aura
-├ ${prefix}nisa
-├ ${prefix}ziva
-├ ${prefix}yana
-├ ${prefix}viona
-├ ${prefix}syania
-├ ${prefix}riri
-├ ${prefix}syifa
-├ ${prefix}mama_gina
-├ ${prefix}alcakenya
-├ ${prefix}mangayutri
-├ ${prefix}rikagusriani
-├ ${prefix}asupan
-├ ${prefix}bocil
-├ ${prefix}geayubi
+├  👾${prefix}chika
+├  👾${prefix}delvira
+├  👾${prefix}ayu
+├  👾${prefix}bunga
+├  👾${prefix}aura
+├  👾${prefix}nisa
+├  👾${prefix}ziva
+├  👾${prefix}yana
+├  👾${prefix}viona
+├  👾${prefix}syania
+├  👾${prefix}riri
+├  👾${prefix}syifa
+├  👾${prefix}mama_gina
+├  👾${prefix}alcakenya
+├  👾${prefix}mangayutri
+├  👾${prefix}rikagusriani
+├  👾${prefix}asupan
+├  👾${prefix}bocil
+├  👾${prefix}geayubi
 ├  👾${prefix}santuy
 ├  👾${prefix}ukhty
 ╰❒  👾${prefix}syifa
