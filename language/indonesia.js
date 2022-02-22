@@ -468,84 +468,84 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├  👾${prefix}summery text
 ├  👾${prefix}3dglue text
 ├  👾${prefix}metaldark text
-├ ${prefix}neonlight text
-├ ${prefix}oscar text
-├ ${prefix}minion text
-├ ${prefix}holographic text
-├ ${prefix}purple text
-├ ${prefix}glossyb text
-├ ${prefix}deluxe2 text
-├ ${prefix}glossyc text
-├ ${prefix}fabric text
-├ ${prefix}neonc text
-├ ${prefix}newyear text
-├ ${prefix}newyear2 text
-├ ${prefix}metals text
-├ ${prefix}xmas text
-├ ${prefix}blood text
-├ ${prefix}darkg text
-├ ${prefix}joker text
-├ ${prefix}wicker text
-├ ${prefix}natural text
-├ ${prefix}firework text
-├ ${prefix}skeleton text
-├ ${prefix}balloon text
-├ ${prefix}balloon2 text
-├ ${prefix}balloon3 text
-├ ${prefix}balloon4 text
-├ ${prefix}balloon5 text
-├ ${prefix}balloon6 text
-├ ${prefix}balloon7 text
-├ ${prefix}steel text
-├ ${prefix}gloss text
-├ ${prefix}denim text
-├ ${prefix}decorate text
-├ ${prefix}decorate2 text
-├ ${prefix}peridot text
-├ ${prefix}rock text
-├ ${prefix}glass text
-├ ${prefix}glass2 text
-├ ${prefix}glass3 text
-├ ${prefix}glass4 text
-├ ${prefix}glass5 text
-├ ${prefix}glass6 text
-├ ${prefix}glass7 text
-├ ${prefix}glass8 text
-├ ${prefix}captain_as2 text
-├ ${prefix}robot text
-├ ${prefix}equalizer text
-├ ${prefix}toxic text
-├ ${prefix}sparkling text
-├ ${prefix}sparkling2 text
-├ ${prefix}sparkling3 text
-├ ${prefix}sparkling4 text
-├ ${prefix}sparkling5 text
-├ ${prefix}sparkling6 text
-├ ${prefix}sparkling7 text
-├ ${prefix}decorative text
-├ ${prefix}chocolate text
-├ ${prefix}strawberry text
-├ ${prefix}koifish text
-├ ${prefix}bread text
-├ ${prefix}matrix text
-├ ${prefix}blood2 text
-├ ${prefix}neonligth2 text
-├ ${prefix}thunder2 text
-├ ${prefix}3dbox text
-├ ${prefix}neon2 text
-├ ${prefix}roadw text
-├ ${prefix}bokeh text
-├ ${prefix}gneon text
-├ ${prefix}advanced text
-├ ${prefix}dropwater text
-├ ${prefix}wall text
-├ ${prefix}chrismast text
-├ ${prefix}honey text
-├ ${prefix}drug text
-├ ${prefix}marble text
-├ ${prefix}marble2 text
-├ ${prefix}ice text
-├ ${prefix}juice text
+├  👾${prefix}neonlight text
+├  👾${prefix}oscar text
+├  👾${prefix}minion text
+├  👾${prefix}holographic text
+├  👾${prefix}purple text
+├  👾${prefix}glossyb text
+├  👾${prefix}deluxe2 text
+├  👾${prefix}glossyc text
+├  👾${prefix}fabric text
+├  👾${prefix}neonc text
+├  👾${prefix}newyear text
+├  👾${prefix}newyear2 text
+├  👾${prefix}metals text
+├  👾${prefix}xmas text
+├  👾${prefix}blood text
+├  👾${prefix}darkg text
+├  👾${prefix}joker text
+├  👾${prefix}wicker text
+├  👾${prefix}natural text
+├  👾${prefix}firework text
+├  👾${prefix}skeleton text
+├  👾${prefix}balloon text
+├  👾${prefix}balloon2 text
+├  👾${prefix}balloon3 text
+├  👾${prefix}balloon4 text
+├  👾${prefix}balloon5 text
+├  👾${prefix}balloon6 text
+├  👾${prefix}balloon7 text
+├  👾${prefix}steel text
+├  👾${prefix}gloss text
+├  👾${prefix}denim text
+├  👾${prefix}decorate text
+├  👾${prefix}decorate2 text
+├  👾${prefix}peridot text
+├  👾${prefix}rock text
+├  👾${prefix}glass text
+├  👾${prefix}glass2 text
+├  👾${prefix}glass3 text
+├  👾${prefix}glass4 text
+├  👾${prefix}glass5 text
+├  👾${prefix}glass6 text
+├  👾${prefix}glass7 text
+├  👾${prefix}glass8 text
+├  👾${prefix}captain_as2 text
+├  👾${prefix}robot text
+├  👾${prefix}equalizer text
+├  👾${prefix}toxic text
+├  👾${prefix}sparkling text
+├  👾${prefix}sparkling2 text
+├  👾${prefix}sparkling3 text
+├  👾${prefix}sparkling4 text
+├  👾${prefix}sparkling5 text
+├  👾${prefix}sparkling6 text
+├  👾${prefix}sparkling7 text
+├  👾${prefix}decorative text
+├  👾${prefix}chocolate text
+├  👾${prefix}strawberry text
+├  👾${prefix}koifish text
+├  👾${prefix}bread text
+├  👾${prefix}matrix text
+├  👾${prefix}blood2 text
+├  👾${prefix}neonligth2 text
+├  👾${prefix}thunder2 text
+├  👾${prefix}3dbox text
+├  👾${prefix}neon2 text
+├  👾${prefix}roadw text
+├  👾${prefix}bokeh text
+├  👾${prefix}gneon text
+├  👾${prefix}advanced text
+├  👾${prefix}dropwater text
+├  👾${prefix}wall text
+├  👾${prefix}chrismast text
+├  👾${prefix}honey text
+├  👾${prefix}drug text
+├  👾${prefix}marble text
+├  👾${prefix}marble2 text
+├  👾${prefix}ice text
+├  👾${prefix}juice text
 ├  👾${prefix}rusty text
 ├  👾${prefix}abstra text
 ├  👾${prefix}biscuit text
@@ -690,16 +690,18 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 `
 }
 exports.welcome = () =>{
-	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🤗
+	return`Intro Dulu Biar Keren Ka😎🤗
 	
 ╭ 📛 𝖭𝖺𝗆𝖺 :
 ├ 🔞𝖴𝗆𝗎𝗋 :
 ├ ♈𝖦𝖾𝗇𝖽𝖾𝗋 :
 ├ 🏙️𝖠𝗌𝗄𝗈𝗍 :
-╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
+╰❒ Semoga Kamu Senang Berada Disini
+Serta Jangan Lupa Untuk Membaca
+Dan Mematuhi Rules Yang Ada ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out 😣Balik Jqngan Lupa Baca Rules yaa >.<
 Goodbye`
 }
 exports.source = () =>{
@@ -1303,16 +1305,16 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ My Family.
-├ Rijal JB
-├ My friends
-├ Fandy
-├ Erlan
-├ Riza
-├ Pandhu
-├ Penyedia Module
-╰❒ And All Support
+├ ❤️My God
+├ ❤️My Parents
+├ ❤️My Family.
+├ ❤️Rijal JB
+├ ❤️My friends
+├ ❤️Fandy
+├ ❤️Erlan
+├ ❤️Riza
+├ ❤️Pandhu
+├ ❤️Penyedia Module
+╰❒ ❤️And All Support
 `
 }
